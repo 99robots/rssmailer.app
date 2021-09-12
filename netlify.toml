@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://briefcake.com/?ref=rssmailer.app"
+  to = "https://briefcake.com/rssmailer"
   status = 301
   force = true
